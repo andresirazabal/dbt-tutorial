@@ -1,0 +1,1 @@
+select distinct company, customer_id from TEMP_RAW.customers
